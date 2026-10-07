@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+
+<h1>MYSQL PRODUCTS</h1>
+
+<ul>
+    <% products.forEach((product)=>{%>
+        <li><%=product.product_name%> with the price of <%=product.price%></li>
+    <%})%>
+</ul>
+
+
+<form action="/home" method="post">
+    <input type="text" name="name" placeholder="product name">
+    <input type="number" name="price" placeholder="price">
+    <button>Add to Db</button>
+</form>
+

@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+
+<h1>MySQL products</h1>
+
+
+    <% products.forEach((product)=>{ %>
+       <% if(product.imgHere === null){ %>
+       
+            <img src=<%=product.imgPath %> >
+        
+        <br>
+       <%} %>
+    <%})%>

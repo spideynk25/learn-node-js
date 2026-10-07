@@ -1,0 +1,39 @@
+20240114	15:22:51	5d2f7e21-67cd-4c64-8785-720fbb345f06	Error : 'Not allowed by CORS
+20240114	15:25:10	b1a5bb37-8c63-4a1e-a576-0551468c5312	Error : 'Not allowed by CORS
+20240114	15:25:11	29110326-b19e-4e81-86b3-d9aa3b1540ed	Error : 'Not allowed by CORS
+20240114	15:25:30	fb61543e-5b51-4f8b-b18c-d46626f9c0a5	Error : 'Not allowed by CORS
+20240114	15:25:53	23bfd060-34ec-4195-9968-df9f6f04ec7d	Error : 'Not allowed by CORS
+20240115	18:26:24	a0de52cb-af0c-45e9-8e35-bab8d7e7750c	ReferenceError : 'sendFile is not defined
+20240115	18:26:35	bbaeaba0-1203-47ca-ac4f-7969548cfeb7	ReferenceError : 'sendFile is not defined
+20240115	18:26:40	c5adf126-98fb-4c1e-82f7-f85b2973b219	ReferenceError : 'sendFile is not defined
+20240115	18:26:56	9397d629-df87-4931-aabf-c08b152aecb0	ReferenceError : 'sendFile is not defined
+20240115	18:27:10	d64e8dca-202e-4033-9cc2-50b9c360ece5	ReferenceError : 'sendFile is not defined
+20240115	18:27:19	24064c1b-011e-470f-8ab9-aa6d23c36e3d	ReferenceError : 'sendFile is not defined
+20240115	18:41:28	2ba62f53-a1ac-4338-87b9-0e21feb129d9	ReferenceError : 'sendFile is not defined
+20240115	18:41:29	9b5b409d-bd2c-4eb6-86c8-3130dce12a06	ReferenceError : 'sendFile is not defined
+20240115	18:42:21	7e6c960f-ccad-4172-92bc-283a43c4c744	ReferenceError : 'sendFile is not defined
+20240115	18:42:21	cd8b7151-f698-466b-b070-30dabdb869c1	ReferenceError : 'sendFile is not defined
+20240115	18:42:31	e68ddfd9-aa7a-4a5c-930b-25b6465632ae	ReferenceError : 'sendFile is not defined
+20240115	18:42:32	3ba1e107-ff22-4982-8616-541900f3f658	ReferenceError : 'sendFile is not defined
+20240115	18:42:32	4d4a2839-78ef-4c22-88ea-6f3c9b320ba9	ReferenceError : 'sendFile is not defined
+20240115	18:42:32	743d733e-2036-41b8-b61e-ed980579ed2b	ReferenceError : 'sendFile is not defined
+20240115	18:43:21	a9d39ece-f190-4dd0-bdc3-d496f0557401	ReferenceError : 'sendFile is not defined
+20240115	18:43:37	86308de3-7986-4909-8101-aabe5ccddf50	ReferenceError : 'sendFile is not defined
+20240115	18:43:37	c590ef82-51c1-4584-a69c-bd4bc77cbe54	ReferenceError : 'sendFile is not defined
+20240115	18:51:36	663841d8-7532-4a86-9d3f-6efe51b60f45	ReferenceError : 'sendFile is not defined
+20240115	18:51:36	89aaa0c7-b08c-4bca-afc7-eae104e6a948	ReferenceError : 'sendFile is not defined
+20240115	18:51:51	f7cef283-a1a4-43bd-b61d-cf3794484c4d	ReferenceError : 'sendFile is not defined
+20240115	18:51:51	ddc401f7-6a77-47cd-af0c-5967feda3572	ReferenceError : 'sendFile is not defined
+20240115	18:51:52	6994c933-7047-4ad7-a512-c5633813bfd4	ReferenceError : 'sendFile is not defined
+20240115	18:51:52	f7c29bd9-aa47-4d82-9b95-36ffe474fe7c	ReferenceError : 'sendFile is not defined
+20240115	18:52:59	0233cf96-af8c-4027-9a50-c2bf3899746c	ReferenceError : 'sendFile is not defined
+20240115	18:52:59	871eaa79-50f5-4fcb-b4ad-3923b8c001de	ReferenceError : 'sendFile is not defined
+20240115	18:53:00	e68690bf-2eb6-4c18-9e34-37fd32526274	ReferenceError : 'sendFile is not defined
+20240115	18:53:00	e9c1dc90-3d1e-4f92-8255-daccad522fce	ReferenceError : 'sendFile is not defined
+20240115	18:55:43	4cccaffc-75ba-4338-9d7d-ba5bfbd55aed	ReferenceError : 'sendFile is not defined
+20240115	18:55:43	1f029873-103a-4166-b31f-ab74b6a224d1	ReferenceError : 'sendFile is not defined
+20240116	13:07:33	1c9603a4-1c56-4479-b4c8-388e1c2c9fb9	TypeError : 'data.setemployees is not a function
+20240123	04:45:19	babc6025-5d44-4ebe-b3a5-3ba6c10caaed	SyntaxError : 'Unexpected token 'e', "#" is not valid JSON
+20240123	04:45:55	496ba946-a8b3-474a-8871-af6b0a1af7ad	SyntaxError : 'Unexpected token 'e', "#" is not valid JSON
+20240123	04:45:59	91d75fc9-3bda-43eb-b073-b415f931261c	SyntaxError : 'Unexpected token 'e', "#" is not valid JSON
+20240123	04:46:24	ff59d11e-53f6-4f48-a551-1b46d4f6da7d	SyntaxError : 'Unexpected token 'e', "#" is not valid JSON

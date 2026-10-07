@@ -1,0 +1,12 @@
+<%-include("partials/header") %>
+<form method = "POST" action = "/home">
+    <input placeholder = "username" autocomplete = "off" type="text" name = "username">
+    <input placeholder = "password" type = "password" name = "password">
+     <button>send data</button>
+ </form>
+
+ <% try{ %>
+    <% console.log(user); %>
+    <h1> the user is <%= user%></h1>
+<% }catch(err){ console.log("The error is "+ err)} %>
+<%-include("partials/footer") %>

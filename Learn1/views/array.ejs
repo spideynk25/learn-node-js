@@ -1,0 +1,12 @@
+<%-include("partials/header") %>
+<h1>Let a display the array :) </h1>
+<form action="/array" method="POST">
+    <input type="text" name="name" placeholder="add a name">
+    <button>add a name</button>
+</form> 
+<ul>
+    <% array.forEach((name)=>{%>
+        <li><%=name%></li>
+    <%})%>
+</ul>
+<%-include("partials/footer") %>
